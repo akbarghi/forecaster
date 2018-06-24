@@ -38,14 +38,16 @@ src
 Updates may occur
 
 **to-do:**
-* Retriever
-* MainPanel
+* Retriever: JSON, data format
+* MainPanel: search, detail
 * (learning) JDepend
 * (learning) testing JUnit
 
 **ongoing:**
 * (learning) JSON Format
 * (learning) HttpUrlConnection
+* (learning) REST API
+* Main package
 
 **done:**
 
